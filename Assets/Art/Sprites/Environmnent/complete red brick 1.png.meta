@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: 3ba54442d92866c49b22c167c0d1d3d6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 42
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: complete red brick 1_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 213
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28fa035437e7ccb438146147e5b335a1
+      internalID: -816066944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 213
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037f35c53704894eba2e8623a976143
+      internalID: -2137626141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 213
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0363fb3baee0aba4b817dc57a8894a2b
+      internalID: 799632271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 213.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e564bd9c670914f9dc652e8b62a5cb
+      internalID: 228737476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0729c3519ea72e541ae444fc2810fc9b
+      internalID: -1137002794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff4bd89c9d7c4489a8a84d7bacc3ec
+      internalID: -2034326802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_6
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45dc66194bf25d41afed35174362f53
+      internalID: -268349257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 171.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df334bbc3e0a1b6419c90e2abc860fdd
+      internalID: 30575564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e02c77c3309c4da9a2d119fbcd47e
+      internalID: 1923742901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c13832f41a1b44bbb2d2e8afb19457
+      internalID: 1392605732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40168b3cf37ae614fb87dde7d999ec85
+      internalID: -2024750995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_11
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 129.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656141193830029498c0dc306488b036
+      internalID: 1303704630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc871a64b1c2b0498ce7ab193ce8779
+      internalID: -1064201728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1b6b80e4fb54a4c88ca78f25861ee5
+      internalID: 844766913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6067334da9a3524dbc686de9849768f
+      internalID: 1127146153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_15
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 87.33333
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1dc39c2f40c754aa876309d343bd48
+      internalID: 1778128963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f4225e59569774294b0c62c9f79eec
+      internalID: -300540175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c8af9a2b8dda9499758a5c44ae3ed0
+      internalID: -809363493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b0ee8f927f5644c822dd33fda36e31
+      internalID: -46929353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 45.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720cbab2b723c39479139a956bdd75c6
+      internalID: -109651811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c983baf0124fb77429f1ea8a9e22ab44
+      internalID: -1830006442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10919fd6a4bb7e040b7ab39a599d3a43
+      internalID: -170377926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f28a1407f2f8c04798b14f73faf9502
+      internalID: 1267503215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3.333332
+        width: 42.666668
+        height: 42.666668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68309b263843c2448b4bb6d483738c62
+      internalID: -1132932571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: complete red brick 1_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 189
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7c04aa1466ed849bfe88171beab8ac
+      internalID: 1474441972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      complete red brick 1_18: -46929353
+      complete red brick 1_6: -268349257
+      complete red brick 1_16: -300540175
+      complete red brick 1_11: 1303704630
+      complete red brick 1_0: -816066944
+      complete red brick 1_19: -109651811
+      complete red brick 1_5: -2034326802
+      complete red brick 1_22: 1267503215
+      complete red brick 1_24: 1474441972
+      complete red brick 1_3: 228737476
+      complete red brick 1_23: -1132932571
+      complete red brick 1_21: -170377926
+      complete red brick 1_12: -1064201728
+      complete red brick 1_4: -1137002794
+      complete red brick 1_1: -2137626141
+      complete red brick 1_8: 1923742901
+      complete red brick 1_7: 30575564
+      complete red brick 1_20: -1830006442
+      complete red brick 1_2: 799632271
+      complete red brick 1_13: 844766913
+      complete red brick 1_14: 1127146153
+      complete red brick 1_15: 1778128963
+      complete red brick 1_17: -809363493
+      complete red brick 1_10: -2024750995
+      complete red brick 1_9: 1392605732
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

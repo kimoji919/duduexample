@@ -9,9 +9,12 @@ public class PlayerMovementController : MonoBehaviour
     private Rigidbody2D rb2d;
     private Animator anim;
     private Weapon weapon;
+    private Player player;
+
     // Start is called before the first frame update
     void Start()
     {
+        player = gameObject.GetComponent<Player>();
         rb2d = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         weapon = GetComponent<Weapon>();
@@ -45,7 +48,7 @@ public class PlayerMovementController : MonoBehaviour
             movDir.x = 0.0f;
             movDir.y = 0.0f;
         }
-
+        player.staminaPoints-=0.001f;
         rb2d.velocity = moveSpeed * movDir;
     }
 
